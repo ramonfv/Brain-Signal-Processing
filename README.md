@@ -1,7 +1,9 @@
 # ET-283 – Brain Signal Processing
-Estudos, códigos, conceitos e resumos da disciplina ET-283 ITA.
+Studies, codes, concepts, and summaries of the subject ET-283 at ITA.
 
-## Emenda do estudo
+![logo](ita_logo.jpg)
+
+## Study plan
 
 - **Unit 1 - Indrotuction**: Introduction to the course. Pattern recognition. Features, feature vectors, and classifiers. Supervised and unsupervised machine learning.
 - **Unit 2 - Brain signals**: Methods of acquiring brain signals. Characteristics and processing. Practice: Analysis of brain signals.
